@@ -11,7 +11,7 @@ import (
 )
 
 const monitoramentos = 3
-const delay = 6
+const delay = 7
 
 func main() {
 	introducaoAplicacao()
